@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("enigpus")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+14132787afdeb11db1fe4902b91de3efac254bf3")]
 [assembly: System.Reflection.AssemblyProductAttribute("enigpus")]
 [assembly: System.Reflection.AssemblyTitleAttribute("enigpus")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -12,3 +12,4 @@
 /Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.pdb
 /Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.genruntimeconfig.cache
 /Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/ref/enigpus.dll
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.sourcelink.json
