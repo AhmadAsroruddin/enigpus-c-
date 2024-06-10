@@ -1,0 +1,14 @@
+/Users/ahmadasroruddin/Development/aspnet/enigpus/bin/Debug/net8.0/enigpus
+/Users/ahmadasroruddin/Development/aspnet/enigpus/bin/Debug/net8.0/enigpus.deps.json
+/Users/ahmadasroruddin/Development/aspnet/enigpus/bin/Debug/net8.0/enigpus.runtimeconfig.json
+/Users/ahmadasroruddin/Development/aspnet/enigpus/bin/Debug/net8.0/enigpus.dll
+/Users/ahmadasroruddin/Development/aspnet/enigpus/bin/Debug/net8.0/enigpus.pdb
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.AssemblyInfoInputs.cache
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.AssemblyInfo.cs
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.csproj.CoreCompileInputs.cache
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.dll
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/refint/enigpus.dll
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.pdb
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/enigpus.genruntimeconfig.cache
+/Users/ahmadasroruddin/Development/aspnet/enigpus/obj/Debug/net8.0/ref/enigpus.dll
